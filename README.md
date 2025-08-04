@@ -3,7 +3,7 @@
 # Python-Project-for-Data-Science---IBM-Data-Science
 
 
- ###  💼 [Final Project : Analyzing Stock Performance and Building a Dashboard](https://github.com/marcelolago61/Extracting-and-Visualizing-Stock-Data---IBM-Data-Science)
+ ###  💼 [Final Project : Analyzing Stock Performance and Building a Dashboard](https://github.com/marcelolago61/Extracting-and-Visualizing-Stock-Data---IBM-Data-Science/blob/main/4%20-%20Final%20Assignment%20-%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
  
 
 
